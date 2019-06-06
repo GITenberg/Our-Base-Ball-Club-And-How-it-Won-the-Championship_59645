@@ -1,10 +1,13 @@
 _repo: Our-Base-Ball-Club-And-How-it-Won-the-Championship_59645
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Spalding, Al. G.
     gutenberg_agent_id: '50550'
     url: http://www.gutenberg.org/2009/agents/50550
+covers:
+- cover_type: archival
+  image_path: 59645-h/images/cover.jpg
 creator:
   author:
     agent_name: Brooks, Noah
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/568
     wikipedia: http://en.wikipedia.org/wiki/Noah_Brooks
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59645#Our-Base-Ball-Club-And-How-it-Won-the-Championship
 gutenberg_issued: '2019-06-01'
 gutenberg_type: Text
 identifiers:
