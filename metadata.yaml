@@ -1,0 +1,30 @@
+_repo: Our-Base-Ball-Club-And-How-it-Won-the-Championship_59645
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Spalding, Al. G.
+    gutenberg_agent_id: '50550'
+    url: http://www.gutenberg.org/2009/agents/50550
+creator:
+  author:
+    agent_name: Brooks, Noah
+    birthdate: 1830
+    deathdate: 1903
+    gutenberg_agent_id: '568'
+    url: http://www.gutenberg.org/2009/agents/568
+    wikipedia: http://en.wikipedia.org/wiki/Noah_Brooks
+description: ''
+gutenberg_issued: '2019-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59645'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Our Base Ball Club
+
+  And How it Won the Championship'
+url: http://www.gutenberg.org/ebooks/59645
